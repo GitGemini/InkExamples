@@ -1,0 +1,38 @@
+C:\Users\user\Desktop\InkExamples\InkExamples\bin\Debug\InkExamples.exe.config
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\InkExamples.exe
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\InkExamples.pdb
+C:\Users\user\Desktop\InkExamples\InkExamples\bin\Debug\InkExamples.exe
+C:\Users\user\Desktop\InkExamples\InkExamples\bin\Debug\InkExamples.pdb
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\UserControls\MyRibbonTab.g.cs
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\App.g.cs
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\InkExamples_MarkupCompile.cache
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\InkExamples_MarkupCompile.lref
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\UserControls\MyRibbonTab.baml
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\InkExamples.g.resources
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\InkExamples.Properties.Resources.resources
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\InkExamples.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\InkExample\InkPage.baml
+C:\Users\user\Desktop\InkExamples\InkExamples\obj\Debug\InkExample\InkPage.g.cs
+C:\Users\user\Desktop\InkExamples\InkExamples\bin\Debug\InkExample\InkPage.xaml.cs
+E:\My Projects\InkExamples\InkExamples\bin\Debug\InkExample\InkPage.xaml.cs
+E:\My Projects\InkExamples\InkExamples\bin\Debug\InkExamples.exe.config
+E:\My Projects\InkExamples\InkExamples\bin\Debug\InkExamples.exe
+E:\My Projects\InkExamples\InkExamples\bin\Debug\InkExamples.pdb
+E:\My Projects\InkExamples\InkExamples\obj\Debug\InkExample\InkPage.g.cs
+E:\My Projects\InkExamples\InkExamples\obj\Debug\MainWindow.g.cs
+E:\My Projects\InkExamples\InkExamples\obj\Debug\UserControls\MyRibbonTab.g.cs
+E:\My Projects\InkExamples\InkExamples\obj\Debug\App.g.cs
+E:\My Projects\InkExamples\InkExamples\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\My Projects\InkExamples\InkExamples\obj\Debug\InkExamples_MarkupCompile.cache
+E:\My Projects\InkExamples\InkExamples\obj\Debug\InkExamples_MarkupCompile.lref
+E:\My Projects\InkExamples\InkExamples\obj\Debug\InkExample\InkPage.baml
+E:\My Projects\InkExamples\InkExamples\obj\Debug\MainWindow.baml
+E:\My Projects\InkExamples\InkExamples\obj\Debug\UserControls\MyRibbonTab.baml
+E:\My Projects\InkExamples\InkExamples\obj\Debug\InkExamples.g.resources
+E:\My Projects\InkExamples\InkExamples\obj\Debug\InkExamples.Properties.Resources.resources
+E:\My Projects\InkExamples\InkExamples\obj\Debug\InkExamples.csproj.GenerateResource.Cache
+E:\My Projects\InkExamples\InkExamples\obj\Debug\InkExamples.exe
+E:\My Projects\InkExamples\InkExamples\obj\Debug\InkExamples.pdb
